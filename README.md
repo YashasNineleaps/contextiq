@@ -3,6 +3,9 @@
 > **"Get the context. Start building."**  
 > *Your AI engineering context layer connecting Jira, GitHub, Slack, documentation, and code.*
 
+🌐 **Live Demo**: [https://contextiq-gamma.vercel.app](https://contextiq-gamma.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/YashasNineleaps/contextiq](https://github.com/YashasNineleaps/contextiq)
+
 ---
 
 ## 🚀 Overview
